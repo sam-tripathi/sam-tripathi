@@ -62,7 +62,6 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px" height= "40px">&nbsp; **Languages & Tools I Know...**
 <div align="center">
   
-  ![snake gif](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![snake gif](https://img.shields.io/badge/LeatCode-000000.svg?&style=for-the-badge&logo=LeatCodelogoColor=white)
   ![snake gif](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![snake gif](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
