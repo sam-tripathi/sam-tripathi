@@ -43,21 +43,15 @@
 [<img src = "https://img.shields.io/badge/samtriathi203-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/samtripathi203)
 [<img src = "https://img.shields.io/badge/samtripathi-%2320A1F1.svg?&style=for-the-badge&logo=github&logoColor=black">](https://github.com/sam-tripathi)
 
-
-
-
-### Projects 🌟
-
-<!--START_SECTION:data-section-->
-
-<table width="100%">
-<tr><td align="center"><a href="https://github.com/sam-tripathi/gameverse">1. GAMEVERSE WEBSITE</a> </td></tr>
-<tr><td align="center"><a href="https://github.com/sam-tripathi/Defeat-JAVA">2. DEFEAT JAVA</a> </td></tr>
-</table>
-
-<img src="https://media1.giphy.com/media/Ah2joXDamL6js4sTAv/giphy.gif?cid=790b7611e1ba46ac89ae48ba3b8e6d0278aea1093779e447&rid=giphy.gif" width="50" /> <b><i>Always ready to collaborate,contribute and learn to grow </i></b> <img src="https://media4.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=790b76116d7604c4e3a82516861c1a10ecf81bf62ae8a799&rid=giphy.gif&ct=s" width="50" /> 
-<br><br>
-
+<h2 align="center">👨‍💻 PROJECTS 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left"https://github.com/sam-tripathi/Defeat-JAVA" title="Defeat-JAVA"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sam-tripathi&repo=Defeat-JAVA&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/sam-tripathi/gameverse" title="GAMEVERSE WEBSITE"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sam-tripathi&repo=gameverse&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<h4 align="center">
+  <a href="https://github.com/sam-tripathi?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 <hr>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px" height= "40px">&nbsp; **Languages & Tools I Know...**
 <div align="center">
