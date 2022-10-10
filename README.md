@@ -22,7 +22,7 @@
 ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26) ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032) ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396) 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LiQuiD-404 &label=Profile%20views&color=blueviolet&style=flat" alt="shubham" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-tripathi &label=Profile%20views&color=blueviolet&style=flat" alt="sam" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.baamboozle.com/uploads/images/43331/1614762563_77278_gif-url.gif" width="900px" height= "300px />
 
 <img src="https://c.tenor.com/3HrcAdrKXigAAAAM/cute-kawaii.gif" width="40px" height= "40px">&nbsp;***Talking about Personal Stuffs...***
@@ -73,6 +73,29 @@
   
   
   </div>
+                   
+ <h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/sam-tripathi/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sam-tripathi&theme=react&border=61dafb&hide_border=true" alt="sam-tripathi" />
+    </a>
+    <a href="https://github.com/sam-tripathi/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sam-tripathi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/sam-tripathi/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-tripathi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=sam-tripathi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>                  
   
   <br />
 
