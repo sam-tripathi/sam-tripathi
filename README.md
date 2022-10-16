@@ -97,6 +97,10 @@
 
 <h2 align="center">🤝 Support</h2>
 
+<p align="center">
+<a href="https://www.buymeacoffee.com/samtripathi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
+
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
