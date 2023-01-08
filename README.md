@@ -9,7 +9,7 @@
 </h1>
 <p align="center">
   <em>
-    This is ME, SAMEER TRIPATHI, A  <b>TEEN CODER</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40px" height= "40px"> and a <b>Open-Source Development Enthusiast</b>&nbsp;<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="40px" height= "40px">&nbsp,<br>who is <b>obsessed</b>
+    This is ME, SAMEER TRIPATHI, A <b>TEEN CODER</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40px" height= "40px">, a <b>Web Develober</b>, <b>Open-Source Development Enthusiast</b>&nbsp;<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="40px" height= "40px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif" width="40px" height= "40px">and 
     <b>excel</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width="40px" height= "40px">&nbsp.
