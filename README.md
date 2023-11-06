@@ -94,6 +94,8 @@
   
   <br />
 
+  [![An image of @samtripathi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samtripathi)](https://holopin.io/@samtripathi)
+
 <h2 align="center">🤝 Support</h2>
 
 <p align="center">
